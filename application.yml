@@ -1,3 +1,6 @@
 spring :
   application :
     name : configserver - default
+
+app :
+  name: App - default
