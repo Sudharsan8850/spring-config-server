@@ -3,4 +3,4 @@ spring :
     name : configserver - dev
     
 app :
-  name: App - dev - edited - 2nd time
+  name: This is the dev final edit
